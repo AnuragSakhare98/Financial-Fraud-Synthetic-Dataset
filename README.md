@@ -1,5 +1,3 @@
-# Financial-Fraud-Synthetic-Dataset
-
 # Synthetic Financial Transaction Dataset
 
 This repository contains a synthetic financial transaction dataset generated for research, educational, and machine learning purposes. The dataset simulates realistic financial activities to support experimentation in fraud detection, transaction analysis, customer behavior modeling, and financial risk assessment.
