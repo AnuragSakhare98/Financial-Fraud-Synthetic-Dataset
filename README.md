@@ -6,7 +6,12 @@ This repository contains a synthetic financial transaction dataset generated for
 
 The dataset is composed of individual transaction records containing a wide range of financial, geographic, temporal, and customer-related attributes. The data is **fully synthetic**, meaning it was artificially created and does **not represent any real individuals or banks**.
 
-### 🔢 Total Fields: 30+
+### 📌 Dataset Summary
+
+- **Total Rows**: 5,000
+- **Total Columns**: 30+
+- **File Format**: CSV
+- **Target Variable**: `Fraud` (binary: 0 = non-fraud, 1 = fraud)
 
 Each row in the dataset represents a single transaction.
 
